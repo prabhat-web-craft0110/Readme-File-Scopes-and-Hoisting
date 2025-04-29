@@ -19,25 +19,25 @@
 
 ## Visual Representation of Scope
 
-```
-+----------------------------------+
-|        Global Scope              |
-|                                  |
-|  var globalVar = "I'm global";   |
-|                                  |
-|  +----------------------------+  |
-|  |     Function Scope         |  |
-|  |                            |  |
-|  |  var funcVar = "Function"; |  |
-|  |                            |  |
-|  |  +----------------------+  |  |
-|  |  |    Block Scope       |  |  |
-|  |  |                      |  |  |
-|  |  | let blockVar="Block";|  |  |
-|  |  +----------------------+  |  |
-|  +----------------------------+  |
-+----------------------------------+
-```
+                               ```
+                                  +----------------------------------+
+                                  |        Global Scope              |
+                                  |                                  |
+                                  |  var globalVar = "I'm global";   |
+                                  |                                  |
+                                  |  +----------------------------+  |
+                                  |  |     Function Scope         |  |
+                                  |  |                            |  |
+                                  |  |  var funcVar = "Function"; |  |
+                                  |  |                            |  |
+                                  |  |  +----------------------+  |  |
+                                  |  |  |    Block Scope       |  |  |
+                                  |  |  |                      |  |  |
+                                  |  |  | let blockVar="Block";|  |  |
+                                  |  |  +----------------------+  |  |
+                                  |  +----------------------------+  |
+                                  +----------------------------------+
+                               ```
 
 ## What is Hoisting?
 
@@ -191,5 +191,5 @@ for (var i = 0; i < 3; i++) {
   <!-- ✅ Professional Footer -->
 <footer style="text-align: center; padding: 20px; background-color: #2c3e50; color: #ecf0f1; border-radius: 12px;">
   <p style="font-size: 18px;">✨ Thanks for visiting this page! ✨</p>
-  <p style="font-size: 14px;">Created with ❤️ by Deepak Sir, Inflection ORG Pvt. Ltd.</p>
+  <p style="font-size: 14px;">Created with ❤️ by Prabhat Student At, Inflection ORG Pvt. Ltd.</p>
 </footer>
